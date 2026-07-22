@@ -1,2 +1,2 @@
-
+pyTelegramBotAPI>=4.35.0
 python-telegram-bot==22.8
