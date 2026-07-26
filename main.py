@@ -38,7 +38,7 @@ BOT_TOKEN = "8465339731:AAH5A_vLreZOsx5wMfdq7Hh01EQSmzdpTYE"
 ADMIN_ID = 6891530912
 BOT_USERNAME = "hosting_maa_bot"
 CONTACT_USERNAME = "@mouhamed_ma"
-BACKUP_CHANNEL = "@mmmmmmmmmmmmmmmmmmmmmollllll"
+BACKUP_CHANNEL = "@mmmmmmmmmmmmmmmmmmmmmollllllma"
 VIP_CHANNEL_ID = -1003834398564
 
 DB_FILE = "bot_database.json"
