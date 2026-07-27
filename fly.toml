@@ -1,13 +1,13 @@
-# fly.toml app configuration file generated for moha-xg3faw on 2026-07-27T12:31:54Z
+# fly.toml app configuration file generated for moha-9i70aw on 2026-07-27T13:13:56Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'moha-xg3faw'
+app = 'moha-9i70aw'
 primary_region = 'sin'
 
 [build]
-  builder = 'paketobuildpacks/builder:base'
+  dockerfile = 'Dockerfile'
 
 [env]
   PORT = '8080'
