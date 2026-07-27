@@ -12,7 +12,6 @@ Pyrogram==2.0.106
 TgCrypto==1.2.5
 pytio==0.3.1
 pytube==15.0.0
-shazamio==0.8.1
 youtube-search==2.2.0
 yt-dlp==2026.7.4
 py-cpuinfo==9.0.0
